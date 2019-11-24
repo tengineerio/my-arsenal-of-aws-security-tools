@@ -76,6 +76,7 @@
 * **AWSlog**: [https://github.com/jaksi/awslog](https://github.com/jaksi/awslog) - Show the history and changes between configuration versions of AWS resources using AWS Config 
 * **AWS_Responder** [https://github.com/prolsen/aws_responder](https://github.com/prolsen/aws_responder) - AWS Digital Forensic and Incident Response (DFIR) Response Python Scripts
 * **SSM-Acquire**: [https://github.com/mozilla/ssm-acquire](https://github.com/mozilla/ssm-acquire) - A python module for orchestrating content acquisitions and analysis via Amazon SSM
+* **cloudtrail-partitioner**: [https://github.com/duo-labs/cloudtrail-partitioner](https://github.com/duo-labs/cloudtrail-partitioner) - This project sets up partitioned Athena tables for your CloudTrail logs and updates the partitions nightly. Makes CloudTrail logs queries easier.
 
 **Development Security:**
 
@@ -92,6 +93,10 @@
 * **AWS Vault**: [https://github.com/99designs/aws-vault](https://github.com/99designs/aws-vault) - A vault for securely storing and accessing AWS credentials in development environments 
 * **AWS Service Control Policies**: [https://github.com/jchrisfarris/aws-service-control-policies](https://github.com/jchrisfarris/aws-service-control-policies) - Collection of semi-useful Service Control Policies and scripts to manage them 
 * **Half-Life**: [https://github.com/Skyscanner/halflife](https://github.com/Skyscanner/halflife) - AWS Lambda auditing tool that provides a meaningful overview in terms of statistical analysis, AWS service dependencies and configuration checks from the security perspective
+* **Terraform-compliance**: [https://github.com/eerkunt/terraform-compliance](https://github.com/eerkunt/terraform-compliance) - A lightweight, security focused, BDD test framework against terraform (with helpful code for AWS)
+* **Get a List of AWS Managed Policies**: [https://github.com/RyPeck/aws_managed_policies](https://github.com/RyPeck/aws_managed_policies) - a way to get a list of all AWS managed policies
+* **Parliament**: [https://github.com/duo-labs/parliament/](https://github.com/duo-labs/parliament/) - AWS IAM linting library 
+* **AWS-ComplianceMachineDontStop**: [https://github.com/jonrau1/AWS-ComplianceMachineDontStop](https://github.com/jonrau1/AWS-ComplianceMachineDontStop) - Proof of Value Terraform Scripts to utilize Amazon Web Services (AWS) Security, Identity & Compliance Services to Support your AWS Account Security Posture
 
 **S3 Buckets Auditing:**
 
@@ -135,6 +140,7 @@
 * [https://github.com/m6a-UdS/dvca](https://github.com/m6a-UdS/dvca) - Damn Vulnerable Cloud Application [more info](https://medium.com/poka-techblog/privilege-escalation-in-the-cloud-from-ssrf-to-global-account-administrator-fd943cf5a2f6)
 * [https://github.com/sonofagl1tch/AWSDetonationLab](https://github.com/sonofagl1tch/AWSDetonationLab) - Scripts and templates to generate some basic detections of the AWS security services
 * [OWASP ServerlessGoat](https://www.owasp.org/index.php/OWASP_Serverless_Goat) - OWASP ServerlessGoat is a deliberately insecure realistic AWS Lambda serverless application, maintained by OWASP for educational purposes. Single click installation through the AWS Serverless Application Repository.
+* [Sadcloud](https://github.com/nccgroup/sadcloud) - A tool for standing up (and tearing down!) purposefully insecure cloud infrastructure.
 
 **Honey-token:**
 
